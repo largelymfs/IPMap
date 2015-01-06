@@ -145,5 +145,26 @@
     }},
 {"type" :"Feature","geometry":  { "type": "LineString",
     "coordinates": [ [-0.35912,49.18585], [-1.68333, 48.08333] ]
+    }},
+    {"type" :"Feature","geometry":  { "type": "LineString",
+    "coordinates": [ [-1.64323,42.81687], [-0.87734, 41.65606] ]
+    }},
+{"type" :"Feature","geometry":  { "type": "LineString",
+    "coordinates": [ [-3.80444,43.46472], [-5.84476, 43.36029] ]
+    }},
+{"type" :"Feature","geometry":  { "type": "LineString",
+    "coordinates": [ [-0.87734,41.65606], [-3.70256, 40.4165] ]
+    }},
+{"type" :"Feature","geometry":  { "type": "LineString",
+    "coordinates": [ [-1.11667,37.98333], [-5.98694, 37.37722] ]
+    }},
+{"type" :"Feature","geometry":  { "type": "LineString",
+    "coordinates": [ [-5.98694,37.37722], [-3.70256, 40.4165] ]
+    }},
+{"type" :"Feature","geometry":  { "type": "LineString",
+    "coordinates": [ [-16.31667,28.48333], [-3.70256, 40.4165] ]
+    }},
+{"type" :"Feature","geometry":  { "type": "LineString",
+    "coordinates": [ [-3.70256,40.4165], [-4.71667, 41.65] ]
     }}]
 }
